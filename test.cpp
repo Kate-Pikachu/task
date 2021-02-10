@@ -6,6 +6,7 @@ int main()
     std::cout << "LoL" << std::endl;
     std::cout << "meow" << std::endl;
     std::cout << "gagaga" << std::endl;
+    std::cout << "help" << std::endl;
 
 }
 
